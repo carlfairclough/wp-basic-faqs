@@ -1,7 +1,7 @@
 <?php
 /*
   Plugin Name: Basic WP FAQs
-  Plugin URI: http://github.com/carlfairclough/basic-wp-faqs
+  Plugin URI: http://github.com/carlfairclough/wp-basic-wp-faqs
   Description: FAQs for WP that spits out plain HTML. No injected CSS/JS
   Author: Carl Fairclough
   Version: 1.0.0
